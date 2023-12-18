@@ -1,4 +1,4 @@
-# Car Show CAse Web App 
+# Car Showcase Web App.
 ## Stack: Nextjs, Typescript, HeadlessUI, RapidAPI, TailwindCSS.
 ## Live Demo: https://car-rental-cjpanda.vercel.app/
 
